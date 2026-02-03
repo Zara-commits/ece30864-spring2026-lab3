@@ -4,3 +4,18 @@ Another advantage of using Agile is accelerated time to market. Instead of wasti
 It provides the ability to test market reception with real users quickly and more efficiently.
 Agile Cons Include: Documentation Deficieny: Agile focuses on working software rather than detailed and comprehensive documentation so it could be confusing to follow up for a new team member joining an ongoing project.
 Another con could be dependency on customer availability and stakeholders' feedback. This makes the project progress depending on others'feedback that might not always be available and slow down the progress.
+
+Question 2 Answer:
+Scrum Master guides and coaches the team members and leads the scrum team.
+Scrum master needs to be highly knowledgable of the Agile Methodology and its best practices and must be able to communicate to the rest of the team.
+A scrum master checks the tasks done by team members and protect the team from distraction.
+Scrum master creates a healthy environment for the team and makes sure that they understand the user's point of view.
+Scrum master checks the progress of the product and motivates the team members.
+
+While Product Owner collects the requirements and lists of customers. 
+A product Owner must have an end-user perspective, committed to vision and understands ROI.
+A product owner sets the priority of every sprint, deals with product backlog, and manages a number of stakeholders.
+A product owner deals with the user's point of view and checks the timelines and deliverables of the products.
+Their responsibility is to create a vision and strategy for a great product.
+
+The scrum master reviews the work of the product owner but the product owner does not.
