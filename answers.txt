@@ -19,3 +19,21 @@ A product owner deals with the user's point of view and checks the timelines and
 Their responsibility is to create a vision and strategy for a great product.
 
 The scrum master reviews the work of the product owner but the product owner does not.
+
+Question 3:
+Sprint Planning: The entire scrum team plan, estimate and agree upon the upcoming sprint deliverables.
+It takes 2 horus for each week of the sprint. The outcome of the meeting is a common sprint goal for team members.
+
+Daily Scrum: Scrum master and development team share each team member's daily progress and plans to contribute towards the sprint goal.
+It takes 15 mins per day. The outcome is an updates sprint backlog and a plan for the upcoming day's work.
+
+Sprint Retrospective:The entire scrum team reflect on and improve processes. It lasts for 1 to 3 hours. 
+The outcome is a list of actionable items for next sprint.
+
+
+
+Question 4:
+Epic:
+Story:
+Bug:
+Task:
