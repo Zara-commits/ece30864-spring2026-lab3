@@ -1,0 +1,6 @@
+Question 1 Answer:
+Agile Pros include enhanced flexibility and adaptability. Agile methedologies are more adaptable to market change.
+Another advantage of using Agile is accelerated time to market. Instead of wasting too much time perfecting a product without customer feedback, Agile allows to build, test, and iterate in a faster cycle. 
+It provides the ability to test market reception with real users quickly and more efficiently.
+Agile Cons Include: Documentation Deficieny: Agile focuses on working software rather than detailed and comprehensive documentation so it could be confusing to follow up for a new team member joining an ongoing project.
+Another con could be dependency on customer availability and stakeholders' feedback. This makes the project progress depending on others'feedback that might not always be available and slow down the progress.
